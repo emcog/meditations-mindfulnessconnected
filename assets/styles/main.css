@@ -311,9 +311,9 @@ audio {
 		font-size: 25px;	
 	}
 
-	#download {
+	/*#download {
 		display: none;
-	}
+	}*/
 
 	.control-container,
 	.time-container,
