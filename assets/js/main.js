@@ -1,7 +1,3 @@
-// play pause /*
-
-/*
-
 const playPauseBtn = document.getElementbyId('amplitude-play-pause');
 
 playPauseBtn.addEventListener('mousedown', playPause);
@@ -15,10 +11,6 @@ function playPause() {
 	}
 }
 
-*/
-
-
-// ---- > From index.html
 
 
 Amplitude.init({
