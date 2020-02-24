@@ -1,4 +1,4 @@
-const playPauseBtn = document.getElementbyId('amplitude-play-pause');
+const playPauseBtn = document.getElementById('amplitude-play-pause');
 
 playPauseBtn.addEventListener('mousedown', playPause);
 playPauseBtn.addEventListener('touchstart', playPause);
